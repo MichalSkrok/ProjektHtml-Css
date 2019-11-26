@@ -74,7 +74,7 @@ header
     text-align:center;
     text-align:center;
     background-size: 100%, 100%;
-    background-image:url(img/background.jpg);
+    background-image:url(background.jpg);
 }
 
 @media all and (max-width:575px)
@@ -459,7 +459,7 @@ span
 }
 .office
 {
-    background-image:linear-gradient(to bottom, rgba(34, 34, 34, 0.7) 60%,  rgba(131, 124, 236, 0.5) ), url(img/office.jpg); 
+    background-image:linear-gradient(to bottom, rgba(34, 34, 34, 0.7) 60%,  rgba(131, 124, 236, 0.5) ), url(office.jpg); 
     background-size:100% 100%;
     grid-area: 2 / 1 / 2 / 3;
     
@@ -478,26 +478,26 @@ span
 }
 .pots
 {
-    background-image:url(img/pots.jpg);
+    background-image:url(pots.jpg);
     background-size:100% 100%;
     background-repeat: no-repeat;
     grid-area: 2 / 3 / 2 / 4;
 }
 .glass
 {
-    background-image: url(img/glass.jpg);
+    background-image: url(glass.jpg);
     background-size:100% 100%;
     grid-area: 2 / 4 / 2 /5;
 }
 .kitchen
 {
-    background-image: url(img/kitchen.jpg);
+    background-image: url(kitchen.jpg);
     background-size:100% 100%;
     grid-area: 3 / 1 / 3 / 2;
 }
 .design
 {
-    background-image:linear-gradient(to bottom, rgba(34, 34, 34, 0.7) 60%,  rgba(131, 124, 236, 0.5) ), url(img/design.jpg);
+    background-image:linear-gradient(to bottom, rgba(34, 34, 34, 0.7) 60%,  rgba(131, 124, 236, 0.5) ), url(design.jpg);
     background-size: 100% 100%;
     grid-area: 3 / 2 / 3 / 5
 }
